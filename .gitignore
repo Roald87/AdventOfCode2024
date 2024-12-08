@@ -1,1 +1,2 @@
-*.txt // do not commit inputs
+# do not commit inputs
+*.txt 
